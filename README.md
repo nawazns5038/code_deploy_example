@@ -20,6 +20,9 @@ chmod +x ./install
 
 sed -i "s/sleep(.*)/sleep(10)/" install 
 
+https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-linux.html 
+
+
 ./install auto
 
 4.) Verify it is running.
